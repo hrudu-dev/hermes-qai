@@ -1,0 +1,32 @@
+# Core
+python-dotenv
+PyYAML
+
+# Quantum
+cirq
+
+# LangChain
+langchain
+openai
+huggingface_hub
+
+# LlamaIndex
+llama-index
+chromadb
+
+# Vector storage + retrievers
+faiss-cpu
+
+# NLP & Transformers
+transformers
+sentence-transformers
+
+# Jupyter + Dev
+ipykernel
+jupyter
+notebook
+
+# Utility
+tqdm
+numpy
+pandas
