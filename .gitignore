@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+.env.*
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MacOS / system files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints / weights / training runs
+*.ckpt
+*.pth
+*.pt
+*.h5
+
+# LlamaIndex/Chroma vector storage
+storage/
+index/
+*.db
+*.json
+*.tsv
+*.pickle
+*.npz
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+__pycache__/
+*.temp
+*.tmp
+
+# Data dumps
+data/*
+!data/README.md
+
+# Hugging Face
+hub/
+*.huggingface
+
+# LangChain
+lc_logs/
